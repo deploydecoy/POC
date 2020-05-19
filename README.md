@@ -1,1 +1,1 @@
-# Tabnabbing POC by Kittiesscript
+# Tabnabbing POC by Deploydecoy
